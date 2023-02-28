@@ -1,0 +1,6 @@
+a:dragon
+a:walrus
+p:cave
+A:peculiar
+A:scary
+A:peaceful

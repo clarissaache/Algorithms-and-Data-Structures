@@ -1,0 +1,34 @@
+animal:dragon
+animal:walrus
+animal:cat
+animal:fluffy the 3 headed dog from Harry Potter
+animal:fangs, which is Hagrid's dog in Harry Potter movies,
+animal:dog
+animal:fish
+animal:pelican
+animal:dinosaur
+animal:bird
+place:cave
+place:my house
+place:your house
+place:my bed
+place:Durham
+place:Chicago
+place:New York
+place:tent
+place:city
+place:country
+place:forest
+place:movie
+adjective:peculiar
+adjective:scary
+adjective:peaceful
+adjective:pretty
+adjective:stupid
+adjective:condescending
+adjective:malicious
+adjective:ignorant
+adjective:intelligent
+adjective:disastrous
+adjective:angry
+adjective:gross

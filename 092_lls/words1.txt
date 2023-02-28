@@ -1,0 +1,9 @@
+Hopefully your test code is generic (did you do anything with ints
+specifically?) To test with other types, we have provided you with a
+"count.cpp" file, which uses the LinkedList that you wrote in a
+variety of ways. This program takes two command line arguments (both
+of which name files), reads in those files--splitting them into
+"words" (note that it does a very simple job of this), counts how many
+occurences of each word there are in the first file, removes all the
+words that appear in the second file, sorts the remaining list, and
+prints the results.

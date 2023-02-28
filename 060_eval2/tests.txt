@@ -1,0 +1,54 @@
+story-step1 story.txt
+story-step2 words.txt
+story-step3 words.txt story2.txt
+story-step4 words.txt story2.txt
+story-step4 -n words.txt story2.txt
+
+./story-step1 words.txt extra_arg.txt
+./story-step2 words.txt extra_arg.txt
+
+story4-step4 -n test_words7.txt test_story13.txt
+story4-step4 test_words7.txt test_story13.txt
+
+story-step3 words.txt test_story.txt
+story-step3 test_words5.txt test_story9.txt
+story-step3 test_words4.txt test_story7.txt
+story-step3 test_words11.txt test_story7.txt
+story-step3 test_words5.txt test_story12.txt
+story-step3 words.txt test_story12.txt
+story-step3 words.txt test_story1.txt
+story-step3 words.txt test_story3.txt
+story-step3 words.txt test_story4.txt
+story-step3 words.txt test_story5.txt
+story-step3 words.txt test_story6.txt
+story-step3 words.txt test_story7.txt
+story-step3 words.txt test_story8.txt
+story-step3 words.txt test_story9.txt
+story-step3 words.txt test_story10.txt
+story-step3 words.txt test_story11.txt
+story-step3 words.txt test_story12.txt
+
+story-step2 test_FAKE.txt
+story-step2 test_words1.txt
+story-step2 test_words2.txt
+story-step2 test_words3.txt
+story-step2 test_words4.txt
+story-step2 test_words5.txt
+story-step2 test_words6.txt
+story-step2 test_words7.txt
+story-step2 test_words8.txt
+
+story-step1 test_story.txt
+story-step1 test_story1.txt
+story-step1 test_story2.txt
+story-step1 test_story3.txt
+story-step1 test_story4.txt
+story-step1 test_story5.txt
+story-step1 test_story6.txt
+story-step1 test_story7.txt
+story-step1 test_story8.txt
+story-step1 test_story9.txt
+story-step1 test_story10.txt
+story-step1 test_story11.txt
+story-step1 test_FAKE.txt
+

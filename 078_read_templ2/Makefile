@@ -1,0 +1,3 @@
+CPPFLAGS=-std=gnu++98 -pedantic -Wall -Werror -ggdb3
+myProgram: code.cpp
+	g++ $(CPPFLAGS) code.cpp

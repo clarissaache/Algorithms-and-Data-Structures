@@ -1,0 +1,24 @@
+./rotateMatrix input1.txt
+./rotateMatrix input2.txt
+./rotateMatrix input3.txt
+./rotateMatrix input4.txt
+./rotateMatrix fakefile.txt
+./rotateMatrix input5.txt
+./rotateMatrix input.c
+./rotateMatrix input6.txt
+./rotateMatrix input7.txt
+./rotateMatrix input8.txt
+./rotateMatrix input9.txt
+./rotateMatrix input10.txt
+./rotateMatrix input1.txt input2.txt
+
+./rotateMatrix input11.txt
+./rotateMatrix README.txt next-README.txt
+./rotateMatrix input12.txt
+./rotateMatrix input13.txt
+./rotateMatrix input14.txt
+./rotateMatrix input15.txt
+./rotateMatrix input16.txt
+./rotateMatrix input17.txt~
+./rotateMatrix
+./rotateMatrix input.c input1.txt

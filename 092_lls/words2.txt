@@ -1,0 +1,4 @@
+You have written excellent test cases for an IntList! Make a copy of
+your test-lls.cpp file, and add a typedef for LinkedList<int> as
+IntList. Make sure your Tester class is a friend. Then you can run the
+test cases you have already written on your LinkedList.

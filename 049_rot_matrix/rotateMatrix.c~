@@ -1,0 +1,45 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define LINE_SIZE 10
+
+int main(int argc, char ** argv) {
+  if (argc != 2) {
+    fprintf(stderr, "Error. Function takes one argument!\n");
+    return EXIT_FAILURE;
+  }
+  FILE * f = fopen(argv[1], "r");
+  if (f == NULL) {
+    fprintf(stderr, "Cannot open the file. Booooo!\n");
+    return EXIT_FAILURE;
+  }
+
+  //read matrix
+  char line[LINE_SIZE + 3];
+  char * matrix[LINE_SIZE];
+  size_t index = 0;
+  while (fgets(line, LINE_SIZE + 2, f) != NULL) {
+    if (strchr(line, '\n') == NULL) {  // If cant fined end of line, line = too long
+      fprintf(stderr, "Too many columns! NOO.\n");
+      return EXIT_FAILURE;
+    }  //if the end of line is found, we did read all the line items!
+    matrix[index] = line;
+    index++;
+  }
+  //rotate matrix
+
+  //print matrix
+  for (size_t i = 0; i < LINE_SIZE; i++) {
+    for (size_t j = 0; j < LINE_SIZE + 1; j++) {
+      fprintf(stdout, "%c", matrix[i][j]);
+    }
+  }
+
+  //close file
+  if (fclose(f) != 0) {
+    fprintf(stderr, "Failed to close the input file. Booo!\n");
+    return EXIT_FAILURE;
+  }
+  return EXIT_SUCCESS;
+}

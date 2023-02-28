@@ -1,0 +1,66 @@
+Grading at 09/14/2022:00:44:08.653598
+For commit ID 7216fa5b8f63fdb28f495d923c4ea2644ecb3fc5
+Grading at Tue Sep 13 08:44:07 PM EDT 2022
+**Testing broken implementation 10 **
+-------------------------------------
+
+ 2 to the power of 3 is 8, not 2
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+50 ^ 3 is 125000, not 8
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+ 2 to the power of 3 is 8, not 2
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+ 2 to the power of 3 is 8, not 9
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+0 (worngly) to the power of 0 is 1, not 0
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+50 ^ 3 is 125000, not 59464
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+ 2 to the power of 3 is 8, not 0
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+5 to the power of 5 is 3125, not 32
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+ 2 to the power of 3 is 8, not 27
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+ 2 to the power of 3 is 8, not 6
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+ 2 to the power of 3 is 8, not 0
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED

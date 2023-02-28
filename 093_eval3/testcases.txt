@@ -1,0 +1,43 @@
+ec:step1
+ec:step2
+ec:step3
+ec:step4
+
+# Step 1
+cyoa-step1
+cyoa-step1 wrong_file
+cyoa-step1 bad_story0
+cyoa-step1 bad_story1
+cyoa-step1 bad_story2
+cyoa-step1 bad_story3
+cyoa-step1 bad_story5
+
+# Step 2
+cyoa-step2
+cyoa-step2 wrong_file
+cyoa-step2 bad_story4
+cyoa-step2 bad_story1
+cyoa-step2 bad_story2
+cyoa-step2 bad_story3
+cyoa-step2 bad_story5
+cyoa-step2 bad_story6
+cyoa-step2 bad_story7
+cyoa-step2 bad_story8
+cyoa-step2 bad_story9
+
+# Step 3
+cyoa-step3 
+cyoa-step3 wrong_file
+
+# Step 4
+cyoa-step4
+cyoa-step4 wrong_file
+cyoa-step2 bad_story1
+cyoa-step2 bad_story2
+cyoa-step2 bad_story3
+cyoa-step2 bad_story4
+cyoa-step2 bad_story5
+cyoa-step2 bad_story6
+cyoa-step2 bad_story7
+cyoa-step2 bad_story8
+cyoa-step2 bad_story9
